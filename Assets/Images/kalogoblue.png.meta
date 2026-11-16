@@ -1,31 +1,31 @@
 fileFormatVersion: 2
-guid: 616d7e111db77c84e9ba13fb97be441e
+guid: b8dde928c9df5304dbfa6daad80ee602
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1400269817105255606
-    second: Kahoot_Logo_0
+      213: -5091572216709700416
+    second: kalogoblue_0
   - first:
-      213: -106166873666639835
-    second: Kahoot_Logo_1
+      213: -3741418974828199056
+    second: kalogoblue_1
   - first:
-      213: -8681392894222252223
-    second: Kahoot_Logo_2
+      213: 3194724730239638193
+    second: kalogoblue_2
   - first:
-      213: -6906962001350562326
-    second: Kahoot_Logo_3
+      213: 2347356236661609831
+    second: kalogoblue_3
   - first:
-      213: 4397793193742666765
-    second: Kahoot_Logo_4
+      213: 5114159186602292515
+    second: kalogoblue_4
   - first:
-      213: -5682357550027548824
-    second: Kahoot_Logo_5
+      213: 9179378283653755745
+    second: kalogoblue_5
   - first:
-      213: 479877405949159536
-    second: Kahoot_Logo_6
+      213: 6488425899848703311
+    second: kalogoblue_6
   - first:
-      213: -7713150392972529634
-    second: Kahoot_Logo_7
+      213: 604940878512048183
+    second: kalogoblue_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -121,7 +121,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Kahoot_Logo_0
+      name: kalogoblue_0
       rect:
         serializedVersion: 2
         x: 0
@@ -136,14 +136,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a437db1350e319ce0800000000000000
-      internalID: -1400269817105255606
+      spriteID: 0c425c29b0a1759b0800000000000000
+      internalID: -5091572216709700416
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kahoot_Logo_1
+      name: kalogoblue_1
       rect:
         serializedVersion: 2
         x: 634
@@ -158,14 +158,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 528af287ac1d68ef0800000000000000
-      internalID: -106166873666639835
+      spriteID: 0738579e34fc31cc0800000000000000
+      internalID: -3741418974828199056
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kahoot_Logo_2
+      name: kalogoblue_2
       rect:
         serializedVersion: 2
         x: 1098
@@ -180,14 +180,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1474840a82f758780800000000000000
-      internalID: -8681392894222252223
+      spriteID: 1bad61d3731f55c20800000000000000
+      internalID: 3194724730239638193
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kahoot_Logo_3
+      name: kalogoblue_3
       rect:
         serializedVersion: 2
         x: 1663
@@ -202,14 +202,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aede06887aa8520a0800000000000000
-      internalID: -6906962001350562326
+      spriteID: 76553877f0c739020800000000000000
+      internalID: 2347356236661609831
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kahoot_Logo_4
+      name: kalogoblue_4
       rect:
         serializedVersion: 2
         x: 2323
@@ -224,14 +224,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d0c89a4fb99180d30800000000000000
-      internalID: 4397793193742666765
+      spriteID: 325fa3a2fa429f640800000000000000
+      internalID: 5114159186602292515
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kahoot_Logo_5
+      name: kalogoblue_5
       rect:
         serializedVersion: 2
         x: 2884
@@ -246,14 +246,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 86759d72ae53421b0800000000000000
-      internalID: -5682357550027548824
+      spriteID: 163fd102ae3b36f70800000000000000
+      internalID: 9179378283653755745
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kahoot_Logo_6
+      name: kalogoblue_6
       rect:
         serializedVersion: 2
         x: 3481
@@ -268,14 +268,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 078e55d45fdd8a600800000000000000
-      internalID: 479877405949159536
+      spriteID: f4d1def8af48b0a50800000000000000
+      internalID: 6488425899848703311
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kahoot_Logo_7
+      name: kalogoblue_7
       rect:
         serializedVersion: 2
         x: 3572
@@ -290,8 +290,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e1035b7659265f490800000000000000
-      internalID: -7713150392972529634
+      spriteID: 738c2dd168e256800800000000000000
+      internalID: 604940878512048183
       vertices: []
       indices: 
       edges: []
@@ -310,14 +310,14 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Kahoot_Logo_0: -1400269817105255606
-      Kahoot_Logo_1: -106166873666639835
-      Kahoot_Logo_2: -8681392894222252223
-      Kahoot_Logo_3: -6906962001350562326
-      Kahoot_Logo_4: 4397793193742666765
-      Kahoot_Logo_5: -5682357550027548824
-      Kahoot_Logo_6: 479877405949159536
-      Kahoot_Logo_7: -7713150392972529634
+      kalogoblue_0: -5091572216709700416
+      kalogoblue_1: -3741418974828199056
+      kalogoblue_2: 3194724730239638193
+      kalogoblue_3: 2347356236661609831
+      kalogoblue_4: 5114159186602292515
+      kalogoblue_5: 9179378283653755745
+      kalogoblue_6: 6488425899848703311
+      kalogoblue_7: 604940878512048183
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
