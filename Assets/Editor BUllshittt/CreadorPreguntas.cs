@@ -4,7 +4,7 @@ using TMPro;
 
 public class CreadorPreguntas : MonoBehaviour
 {
-    // ----- Campos de la escena (se enlazan desde el Inspector) -----
+    
     public TMP_InputField campoNumero;
     public TMP_InputField campoPregunta;
     public TMP_InputField campoRespuesta1;
@@ -14,7 +14,7 @@ public class CreadorPreguntas : MonoBehaviour
     public TMP_Dropdown desplegableCorrecta; // opciones: Respuesta 1, 2, 3, 4
     public TMP_Text textoEstado;             // para mostrar mensajes (opcional)
 
-    // ----- Listas donde se guarda todo -----
+    // Listas de todo
     public List<int> numeros = new List<int>();
     public List<string> preguntas = new List<string>();
     public List<string> respuestas1 = new List<string>();
@@ -23,20 +23,19 @@ public class CreadorPreguntas : MonoBehaviour
     public List<string> respuestas4 = new List<string>();
     public List<int> correctas = new List<int>(); // 1, 2, 3 o 4
 
-    // Cuantas preguntas se pueden hacer (cambialo en el Inspector)
+    // Cuantas preguntas se pueden hacer 
     public int maxPreguntas = 5;
 
     void Start()
     {
-        // Preparamos el primer numero de pregunta
+        // primer numero de pregunta
         campoNumero.text = "1";
         MostrarMensaje("Pregunta 1 de " + maxPreguntas);
     }
 
-    // Enlaza esta funcion al boton "Guardar" (OnClick)
     public void GuardarPregunta()
     {
-        // Si ya hay el maximo de preguntas, no dejamos guardar mas
+        
         if (preguntas.Count >= maxPreguntas)
         {
             MostrarMensaje("Ya has hecho las " + maxPreguntas + " preguntas");

@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.IO;
 using UnityEngine;
 
-// ----- Clases que definen la estructura del JSON -----
 
 [Serializable]
 public class PreguntaJSON
@@ -23,17 +22,14 @@ public class QuizJSON
     public List<PreguntaJSON> preguntas = new List<PreguntaJSON>();
 }
 
-// ----- Script principal -----
 
 public class GuardarQuizJSON : MonoBehaviour
 {
-    // Enlaza aqui el objeto que tiene el script CreadorPreguntas
     public CreadorPreguntas creador;
 
     // Nombre del archivo que se va a crear
     public string nombreArchivo = "quiz.json";
 
-    // Enlaza esta funcion al boton (OnClick)
     public void GuardarJSON()
     {
         // Si no hay preguntas guardadas, no hacemos nada
@@ -60,7 +56,7 @@ public class GuardarQuizJSON : MonoBehaviour
             quiz.preguntas.Add(p);
         }
 
-        // Convertimos a texto JSON (true = con saltos de linea, facil de leer)
+        // Convertimos a texto JSON 
         string json = JsonUtility.ToJson(quiz, true);
 
         // Guardamos el archivo en la carpeta Assets del proyecto
@@ -69,9 +65,5 @@ public class GuardarQuizJSON : MonoBehaviour
 
         Debug.Log("JSON guardado en: " + ruta);
 
-#if UNITY_EDITOR
-        // Para que el archivo aparezca enseguida en la ventana Project
-        UnityEditor.AssetDatabase.Refresh();
-#endif
     }
 }
