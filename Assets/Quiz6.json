@@ -1,0 +1,49 @@
+{
+    "preguntas": [
+        {
+            "numero": 1,
+            "pregunta": "WHO posted my NUDES on Twitter dot COM!?",
+            "respuesta1": "you need to up your sin points",
+            "respuesta2": "I peed on your wife, Robotnik. She's mine now. That's the law",
+            "respuesta3": "What the actual shit?! WHAT?!",
+            "respuesta4": "I've come to make an announcement: ",
+            "correcta": 2
+        },
+        {
+            "numero": 2,
+            "pregunta": "New idea; adultery.",
+            "respuesta1": "I don't know what you're thinking of doing, but I'm gonna stop it right here.",
+            "respuesta2": "You know exactly what I'm thinking of doing, Eggman!",
+            "respuesta3": "My sin is about to be murdering you. Get away from me.",
+            "respuesta4": "I've turned the sky into a fuchsia Windows background!",
+            "correcta": 4
+        },
+        {
+            "numero": 3,
+            "pregunta": "Jesus Christ, Shadow, what have you done?",
+            "respuesta1": "I went to go vote and I saw a fursuit of someone",
+            "respuesta2": "with Bowser's fat ass in line",
+            "respuesta3": "and you have some explaining to do.",
+            "respuesta4": "I don't think so, Eggman! You have to do what I say",
+            "correcta": 2
+        },
+        {
+            "numero": 4,
+            "pregunta": "or else you're under arrest,",
+            "respuesta1": "Eggman!",
+            "respuesta2": "Eggface!",
+            "respuesta3": "Egg poopy, poopy butt!",
+            "respuesta4": "You may be the-don't you ever FUCKING call me that ever again,",
+            "correcta": 2
+        },
+        {
+            "numero": 5,
+            "pregunta": "WARIO!!!",
+            "respuesta1": "I GOTTA WIN!!!",
+            "respuesta2": "I GOTTA WIN!!!",
+            "respuesta3": "I GOTTA WIN!!!",
+            "respuesta4": "I GOTTA WIN!!!",
+            "correcta": 2
+        }
+    ]
+}

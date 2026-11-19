@@ -1,0 +1,49 @@
+{
+    "preguntas": [
+        {
+            "numero": 1,
+            "pregunta": "alright imma be honest with ya bucko im runnin out of ideas here",
+            "respuesta1": "you need to up your sin points",
+            "respuesta2": "you could uhhh get an internship at disney...",
+            "respuesta3": "Yeah they made the movies like uh beauty and the-",
+            "respuesta4": "whuh- what's- is that king koopa?",
+            "correcta": 1
+        },
+        {
+            "numero": 2,
+            "pregunta": "sorry",
+            "respuesta1": "Guess who's back everybody",
+            "respuesta2": "it's ya favorite boy",
+            "respuesta3": "PUT THE PISS STONE DOWN RIGHT NOW YOU KNOW WHAT IT DOES TO YOUR blenis",
+            "respuesta4": "I LIKE WHAT IT DOES TO MY blenis EGGMAN.",
+            "correcta": 4
+        },
+        {
+            "numero": 3,
+            "pregunta": "67?",
+            "respuesta1": "MUEREMUEREMUEREMUEREMUERE",
+            "respuesta2": "Nice",
+            "respuesta3": "MUEREMUEREMUEREMUEREMUERE",
+            "respuesta4": "MUEREMUEREMUEREMUEREMUERE",
+            "correcta": 2
+        },
+        {
+            "numero": 4,
+            "pregunta": "HEEEEEEY~! WHAT'S UUUUUUP~? IT'S MEEEEEE~!",
+            "respuesta1": "Shadow you're an asshole man",
+            "respuesta2": "You are what you eat, Sonic.",
+            "respuesta3": "What the hell, man!? Oh my god… that was kinda sick!",
+            "respuesta4": "Thanks, I worked hard on it!",
+            "correcta": 2
+        },
+        {
+            "numero": 5,
+            "pregunta": "Hey everyone! Guess what?",
+            "respuesta1": "I know you wanna buy my stocks, but fuck you.",
+            "respuesta2": "I am keeping your stocks!",
+            "respuesta3": "That's right, you ugly little girl! I HATE YOU, and your stupid nose!",
+            "respuesta4": "I'm taking everything from you, give me your phone!",
+            "correcta": 2
+        }
+    ]
+}

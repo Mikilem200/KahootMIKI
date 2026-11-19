@@ -1,0 +1,49 @@
+{
+    "preguntas": [
+        {
+            "numero": 1,
+            "pregunta": "Mira me estoy quedando sin ideas",
+            "respuesta1": "Se nota",
+            "respuesta2": "Nooooooo, en serio?",
+            "respuesta3": "Me la fokin pela chaval",
+            "respuesta4": "Lemming",
+            "correcta": 1
+        },
+        {
+            "numero": 2,
+            "pregunta": "y aun me faltan otros 2 quizes...",
+            "respuesta1": "la tienes chunga broder",
+            "respuesta2": "que quieres que te diga",
+            "respuesta3": "es que...",
+            "respuesta4": "tus muertos",
+            "correcta": 1
+        },
+        {
+            "numero": 3,
+            "pregunta": "67?",
+            "respuesta1": "MUEREMUEREMUEREMUEREMUERE",
+            "respuesta2": "Nice",
+            "respuesta3": "MUEREMUEREMUEREMUEREMUERE",
+            "respuesta4": "MUEREMUEREMUEREMUEREMUERE",
+            "correcta": 2
+        },
+        {
+            "numero": 4,
+            "pregunta": "Tu ignora que esto no se gracioso",
+            "respuesta1": "Nuh uh",
+            "respuesta2": "*te apuñala*",
+            "respuesta3": "Hey",
+            "respuesta4": "es la 2",
+            "correcta": 2
+        },
+        {
+            "numero": 5,
+            "pregunta": "Pregunta 5",
+            "respuesta1": "Respuesta 1",
+            "respuesta2": "Respuesta Correcta",
+            "respuesta3": "Esta no es",
+            "respuesta4": "Esta Tampoco",
+            "correcta": 2
+        }
+    ]
+}

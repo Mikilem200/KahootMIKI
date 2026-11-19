@@ -1,0 +1,49 @@
+{
+    "preguntas": [
+        {
+            "numero": 1,
+            "pregunta": "There once was a man from",
+            "respuesta1": "Nantucket",
+            "respuesta2": "Kentucky",
+            "respuesta3": "que me hablas loco",
+            "respuesta4": "the oldest anarchy server in minecraft",
+            "correcta": 1
+        },
+        {
+            "numero": 2,
+            "pregunta": "meow",
+            "respuesta1": "awroo",
+            "respuesta2": "que?",
+            "respuesta3": "Nuh uh",
+            "respuesta4": "*te apuñala*",
+            "correcta": 4
+        },
+        {
+            "numero": 3,
+            "pregunta": "67?",
+            "respuesta1": "MUEREMUEREMUEREMUEREMUERE",
+            "respuesta2": "Nice",
+            "respuesta3": "MUEREMUEREMUEREMUEREMUERE",
+            "respuesta4": "MUEREMUEREMUEREMUEREMUERE",
+            "correcta": 2
+        },
+        {
+            "numero": 4,
+            "pregunta": "Quiz 2",
+            "respuesta1": "Es la siguiente",
+            "respuesta2": "Si, esta.",
+            "respuesta3": "Esta no",
+            "respuesta4": "ya te he dicho cual es, inutil",
+            "correcta": 2
+        },
+        {
+            "numero": 5,
+            "pregunta": "Si yo tengo 20 manzanas, y tu tienes 2, quien esta a tu derecha?",
+            "respuesta1": "nadie, vivo solo",
+            "respuesta2": "viva tu mamá",
+            "respuesta3": "Yoquese",
+            "respuesta4": "Aire",
+            "correcta": 4
+        }
+    ]
+}

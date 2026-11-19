@@ -1,0 +1,49 @@
+{
+    "preguntas": [
+        {
+            "numero": 1,
+            "pregunta": "Miki?",
+            "respuesta1": "Si",
+            "respuesta2": "No",
+            "respuesta3": "Lem",
+            "respuesta4": "Lemming",
+            "correcta": 3
+        },
+        {
+            "numero": 2,
+            "pregunta": "Awrf?",
+            "respuesta1": "awroo",
+            "respuesta2": "que?",
+            "respuesta3": "Nuh uh",
+            "respuesta4": "tus muertos",
+            "correcta": 1
+        },
+        {
+            "numero": 3,
+            "pregunta": "67?",
+            "respuesta1": "MUEREMUEREMUEREMUEREMUERE",
+            "respuesta2": "Nice",
+            "respuesta3": "MUEREMUEREMUEREMUEREMUERE",
+            "respuesta4": "MUEREMUEREMUEREMUEREMUERE",
+            "correcta": 2
+        },
+        {
+            "numero": 4,
+            "pregunta": "Haiiii !!",
+            "respuesta1": "Helo :)",
+            "respuesta2": "*te apuñala*",
+            "respuesta3": "Wassup",
+            "respuesta4": "es la 2",
+            "correcta": 2
+        },
+        {
+            "numero": 5,
+            "pregunta": "Pregunta 5",
+            "respuesta1": "Respuesta 1",
+            "respuesta2": "Respuesta Correcta",
+            "respuesta3": "Esta no es",
+            "respuesta4": "Esta Tampoco",
+            "correcta": 2
+        }
+    ]
+}

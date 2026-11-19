@@ -1,0 +1,49 @@
+{
+    "preguntas": [
+        {
+            "numero": 1,
+            "pregunta": "Has visto que bien reutilizo preguntas?",
+            "respuesta1": "Si",
+            "respuesta2": "No",
+            "respuesta3": "Lem",
+            "respuesta4": "Lemming",
+            "correcta": 1
+        },
+        {
+            "numero": 2,
+            "pregunta": "Que bien se me da esto",
+            "respuesta1": "Cierto!",
+            "respuesta2": "que?",
+            "respuesta3": "Nuh uh",
+            "respuesta4": "tus muertos",
+            "correcta": 1
+        },
+        {
+            "numero": 3,
+            "pregunta": "67?",
+            "respuesta1": "MUEREMUEREMUEREMUEREMUERE",
+            "respuesta2": "Nice",
+            "respuesta3": "MUEREMUEREMUEREMUEREMUERE",
+            "respuesta4": "MUEREMUEREMUEREMUEREMUERE",
+            "correcta": 2
+        },
+        {
+            "numero": 4,
+            "pregunta": "yolaibagrabaperoenbajacalida",
+            "respuesta1": "yellamedicequenoquenoesta",
+            "respuesta2": "eunamaditaloca,unaratata",
+            "respuesta3": "ellaloquequieequelaponga4k",
+            "respuesta4": "QuatroKaQuatroKaQuatroKaQuatroKaQuatroKaKaKaKaKaKa",
+            "correcta": 4
+        },
+        {
+            "numero": 5,
+            "pregunta": "Cantame esta",
+            "respuesta1": "whuh",
+            "respuesta2": "Respuesta Correcta",
+            "respuesta3": "Imagen",
+            "respuesta4": "los jfif estan infravalorados",
+            "correcta": 2
+        }
+    ]
+}
